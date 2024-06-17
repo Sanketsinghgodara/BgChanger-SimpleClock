@@ -1,8 +1,23 @@
-# React + Vite
+# BgChanger-SimpleClock React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+BgChanger-SimpleClock is a React application built with Vite that combines a simple digital clock with a background color changer. This app demonstrates the use of React state and effects for real-time updates and user interaction.
 
-Currently, two official plugins are available:
+## Features
+- Display the current time updated every second
+- Change the background color randomly with a button click
+- Simple and intuitive user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+- Node.js (>= 12.x)
+- npm (>= 6.x) or yarn (>= 1.x)
+
+## Getting Started
+
+## website
+(https://666ffc24a25e7917584006cc--fastidious-pie-45e9d0.netlify.app/)
+
+### Clone the Repository
+```sh
+git clone https://github.com/yourusername/BgChanger-SimpleClock.git
+cd BgChanger-SimpleClock
